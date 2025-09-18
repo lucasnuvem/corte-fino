@@ -4,4 +4,4 @@ Explicação de cada função.
 
 Corte-Fino
 Meu primeiro programa em python,
-kkk
+kkkkl
