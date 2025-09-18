@@ -3,5 +3,4 @@ Descrição do sistema.
 Explicação de cada função.
 
 Corte-Fino
-Meu primeiro programa em python,
-kkkkl
+Meu primeiro programa em python
